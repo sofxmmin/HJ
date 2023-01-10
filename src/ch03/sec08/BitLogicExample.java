@@ -1,4 +1,4 @@
-package ch03;
+package ch03.sec08;
 
 public class BitLogicExample {
     public static void main(String[] args) {
