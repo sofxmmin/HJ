@@ -1,4 +1,4 @@
-package ch02;
+package ch02.sec06;
 
 public class TextBlockExample {
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class TextBlockExample {
         String str = """
                 i learn \
                 java
-                i will be a programer.
+                i will be a programmer.
                 """;
         System.out.println(str);
     }

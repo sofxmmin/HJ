@@ -1,4 +1,4 @@
-package ch04;
+package ch04.sec04;
 
 public class MultiplicationTableExample {
     public static void main(String[] args) {

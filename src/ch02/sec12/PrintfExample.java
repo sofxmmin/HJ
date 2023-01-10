@@ -1,4 +1,4 @@
-package ch02;
+package ch02.sec12;
 
 public class PrintfExample {
     public static void main(String[] args) {

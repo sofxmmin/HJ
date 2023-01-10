@@ -1,4 +1,4 @@
-package ch03;
+package ch03.sec03;
 
 public class OverflowUnderflowExample {
     public static void main(String[] args) {

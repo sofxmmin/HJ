@@ -1,4 +1,4 @@
-package ch02;
+package ch02.sec10;
 
 public class PrimitiveAndStirngConversionExample {
     public static void main(String[] args) {

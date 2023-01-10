@@ -1,4 +1,4 @@
-package ch03;
+package ch03.sec09;
 
 public class BitShiftExample1 {
     public static void main(String[] args) {

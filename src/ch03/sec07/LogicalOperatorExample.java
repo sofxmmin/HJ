@@ -1,4 +1,4 @@
-package ch03;
+package ch03.sec07;
 
 public class LogicalOperatorExample {
     public static void main(String[] args) {
