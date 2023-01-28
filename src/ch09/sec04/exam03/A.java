@@ -8,7 +8,7 @@ public class A {
         //로컬 클래스
         class B {
             //메소드
-            void method2() {
+            void method2() { 
                 //로컬 변수 읽기
                 System.out.println("arg : " + arg);
                 System.out.println("var : " + var);
